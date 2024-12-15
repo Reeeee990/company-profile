@@ -1,0 +1,81 @@
+.navbare{
+    background-color: #d4a135;
+    display:flex;
+    justify-content: right;
+    padding: 10px 0;
+  }
+  .navbare a {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: bold;
+    transition: 0.3s ease;
+  }
+
+
+.body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Sans-Serif;
+    line-height: 1.6;
+    background-color: blue;
+    color: red;
+    
+  }
+  .header {
+    background: yellow;
+    color:#fff;
+    text-align: center;
+    padding: 1rem 0;
+  }
+  .header h1 {
+    margin: 0;
+  }
+  .about-us {
+    padding: 2rem 1rem;
+  }
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    background: #fff;
+    padding: 1.5rem;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px; rgba(0, 0,
+    0, 0.1);
+  }
+  
+  .h2 {
+    color: #5a67d8;
+    margin-bottom: 0.5rem;
+  }
+  .p {
+    margin-bottom: 1.5rem;
+  }
+  form {
+    font-family: Arial, sans-serif;
+    background-color: #222;
+    color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    width: 1260px;
+    margin: 75px;
+}
+textarea, input {
+    width: 100%;
+    margin: 5px 0;
+    padding: 10px;
+}
+button {
+    background-color: #d4a135;
+    color: #fff;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+}
+.foter {
+    display: flex;
+    justify-content: center;
+}
+.foter a{
+    font-size: larger;
+}

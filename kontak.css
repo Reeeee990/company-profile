@@ -1,0 +1,75 @@
+body{
+    font-family:Arial Sans-Serif;
+    background-clip:blue ;
+    margin: 100px;
+    mading:100px;
+  }
+  header{
+    background-color: blue;
+    color;white;
+    padding:15px;
+    text-align:left ;
+  }
+  container{
+    background-color:white;
+    width:80;
+    margin:50px auto;
+    padding:20px;
+    box-shadow:10px
+  }
+  container h2{
+    font-size:36px;
+    margin-bottom:10px;
+  }
+  container p{
+    font-size:18px;
+    margin-bottom:20px;
+  }
+  form-group{
+    margin-bottom:15px;
+  }
+  form-group label{
+    display:block;
+    font-size:15px;
+    margin-bottom:5px;
+  }
+  .navbare{
+    background-color: #d4a135;
+    display:flex;
+    justify-content: right;
+    padding: 10px 0;
+  }
+  .navbare a {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: bold;
+    transition: 0.3s ease;
+  }
+  form {
+    font-family: Arial, sans-serif;
+    background-color: #222;
+    color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    width: 1260px;
+    margin: 75px;
+}
+textarea, input {
+    width: 100%;
+    margin: 5px 0;
+    padding: 10px;
+}
+button {
+    background-color: #d4a135;
+    color: #fff;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+}.foter {
+    display: flex;
+    justify-content: center;
+}
+.foter a{
+    font-size: larger;
+}
